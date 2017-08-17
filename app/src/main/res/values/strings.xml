@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">宿舍管理系统</string>
+    <drawable name="time_correct_normal">#247fed</drawable>
+    <drawable name="time_correct_pressed">#105fff</drawable>
+</resources>
